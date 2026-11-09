@@ -1,1 +1,1 @@
-../../04.dvl/bash/cls_common.sh
+../../cls.common/bash/cls_common.sh
